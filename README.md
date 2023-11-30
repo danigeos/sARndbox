@@ -1,4 +1,4 @@
-This is a modified version of one of the F# scripts in Kreylo's for the AR sandbox, aiming at displaying erosion & sedimentation.
+This is a modified version of one of the F# scripts for the AR sandbox (sARndBox), aiming at displaying stream power, erosion & sedimentation.
 We have edited Kreylos' ARSandbox code to visually enhance the erosion and sedimentation produced by water during 3D motion and its role in shaping the landscape and topography. 
 
 How to use it:
